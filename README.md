@@ -11,5 +11,8 @@ Repo for everything GSOC 2019
 # Tasks
 [Tasks](tasks.md)
 
+# Meetings
+[Meetings](meetings.md)
+
 # Blog Posts
 [Blogs](blog-posts.md)
