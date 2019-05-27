@@ -49,6 +49,7 @@ The above command is the default command, and it tracks the files in the reposit
 | Config Link | Error  | [psalm.xml](https://pastebin.com/rqzEJLCG) |
 
 How About Tracking the Files in the Config for failed analysis??
+
 | Strictness Level |  Status | Output Link |
 |---|---|---|
 | 7 | Complete  | [pastebin](https://pastebin.com/0gcDA02p) |
