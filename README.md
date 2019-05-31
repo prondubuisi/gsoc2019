@@ -7,7 +7,14 @@ Repo for everything GSOC 2019
 # Summary from analysis
 [Summary](findings-summary.md)
 # Static analysis Log
-[Logs](static-analysis.md)
+[Ist batch](static-analysis.md)
+
+[2nd batch](static-analysis-2.md)
+
+[3rd batch](static-analysis-3.md)
+
+[Civi-Core](static-analysis-civi-core.md)
+
 
 # Tasks
 [Tasks](tasks.md)
