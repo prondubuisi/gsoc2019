@@ -6,5 +6,5 @@ Static analysis log for CiviCore
 
 | Strictness Level |  Status | Output Link | Psalm.xml link |
 |---|---|---|---|
-| Default | Sucessful  | [pastebin](https://pastebin.com/x8jhQ6H9) | [pastebin](https://pastebin.com/M1qW2R7U) |
+| Default | Sucessful  | [gist](https://gist.github.com/prondubuisi/1243e07f8de78ecd205fd526f09d2c8e) | [pastebin](https://pastebin.com/M1qW2R7U) |
 
