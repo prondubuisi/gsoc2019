@@ -17,6 +17,8 @@
 
 - composer require --dev vimeo/psalm:3.4.0
 
+- add a psalm.xml file manually or with `./vendor/bin/psalm --init`
+
 - ./vendor/bin/psalm .
 
 ## Observations
